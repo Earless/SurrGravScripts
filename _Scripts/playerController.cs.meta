@@ -1,0 +1,27 @@
+fileFormatVersion: 2
+guid: 36297de40ed1b2c41870d5000c2ce7ac
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - Main_Camera: {instanceID: 0}
+  - Wounded_Panel: {instanceID: 0}
+  - Kill_Bullet: {instanceID: 0}
+  - playerPrefab: {instanceID: 0}
+  - LightningLine: {instanceID: 0}
+  - KillLine: {instanceID: 0}
+  - kill_shot_sound: {fileID: 8300000, guid: 6c6a641a2b6e4224e943d25ea6155308, type: 3}
+  - jump_sound: {fileID: 8300000, guid: ce2b756d4abf1c448bac5fe7810a5143, type: 3}
+  - ScoreScreen: {instanceID: 0}
+  - boundary_death_sound: {fileID: 8300000, guid: d294498da43ac594994ed5ec5aa854f6,
+      type: 3}
+  - respawn_sound: {fileID: 8300000, guid: 21fec11ecf6a53d41807001d39213d0c, type: 3}
+  - getting_hit_sound: {fileID: 8300000, guid: d429da2e756bb0b42b370add8e49d214, type: 3}
+  - Leven1: {instanceID: 0}
+  - Leven2: {instanceID: 0}
+  - Leven3: {instanceID: 0}
+  - endfork_sound: {fileID: 8300000, guid: f21c2c2e260d9554cac58a2f71239592, type: 3}
+  - endrailgun_sound: {fileID: 8300000, guid: 2507328258434a74e924f5d8e604f885, type: 3}
+  - shot_death_sound: {fileID: 8300000, guid: e23dd11f06fdc5b49a6835ab8e5709f4, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 

@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: c2eb65da49944484c9473cc244fa0a59
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - LightningLine: {instanceID: 0}
+  - KillLine: {instanceID: 0}
+  - crosshairImage: {instanceID: 0}
+  - player: {instanceID: 0}
+  - playercam: {instanceID: 0}
+  - referee: {instanceID: 0}
+  - Gravity_Bullet: {instanceID: 0}
+  - kill_shot_sound: {fileID: 8300000, guid: 6c6a641a2b6e4224e943d25ea6155308, type: 3}
+  - gravity_shot_sound: {fileID: 8300000, guid: cfa5d7a6a23df8f4bb462c0d6b69376d,
+      type: 3}
+  - kill_point_sound: {instanceID: 0}
+  - gravity_switch_sound: {fileID: 8300000, guid: 7810a188ecffb9e41850de1417de0600,
+      type: 3}
+  - bullet_hit_sound: {fileID: 8300000, guid: d429da2e756bb0b42b370add8e49d214, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
